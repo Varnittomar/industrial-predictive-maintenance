@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
+data/*.csv
+models/*.joblib
+reports/*.json
+reports/*.txt
+reports/*.png
+!data/.gitkeep
+!models/.gitkeep
+!reports/.gitkeep
