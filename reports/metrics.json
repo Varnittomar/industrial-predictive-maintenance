@@ -1,0 +1,10 @@
+{
+  "test_rows": 1000,
+  "failure_rate_test": 0.021,
+  "accuracy": 0.973,
+  "precision": 0.2,
+  "recall": 0.09523809523809523,
+  "f1_score": 0.12903225806451613,
+  "roc_auc": 0.877134101853203,
+  "data_note": "Synthetic demonstration data; metrics are not evidence of real-world performance."
+}
